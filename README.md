@@ -21,4 +21,4 @@ Fitur yang Diimplementasikan
 - KeyboardAvoidingView untuk UX lebih baik
 
 Screenshot Aplikasi
-
+![Preview Aplikasi](assets/mytasklist.jpeg)
