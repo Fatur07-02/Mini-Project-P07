@@ -22,3 +22,18 @@ Fitur yang Diimplementasikan
 
 Screenshot Aplikasi
 ![Preview Aplikasi](assets/mytasklist.jpeg)
+
+Cara Menjalankan Project
+
+1. Install dependencies:
+npm install
+
+2. Jalankan project:
+npx expo start
+
+3. Scan QR code menggunakan aplikasi Expo Go di HP kamu
+
+Tools yang Digunakan
+- React Native (Expo)
+- VS Code
+- Expo Go
